@@ -9,7 +9,7 @@ A CD type Screensaver, which counts corner hits for ESP32 using SSD1306 OLED Scr
   - Connect `SDA` from Screen with `G33`
 - Connect Ground (`GND`)
 
-<img src="https://raw.githubusercontent.com/FreakMediaLP/Hackerscreen/main/circuit%20sketch.png" alt="Circuit Sketch" width="500">
+<img src="https://raw.githubusercontent.com/FreakMediaLP/Screensaver/main/circuit%20sketch.png" width="500">
 
 ## Software Setup
 
